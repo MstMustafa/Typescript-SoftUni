@@ -4,4 +4,4 @@
 
 
 ## Overview
-- **Basic Syntax, Conditional Statements and Loops**: This section includes tasks aimed at developing proficiency in basic syntax, conditional statements, and loops in JavaScript.
+- **Introduction to TypeScript**: This section covers the essentials of TypeScript syntax, including type annotations, basic types, and introductory control flow to build a foundation in type-safe programming.
