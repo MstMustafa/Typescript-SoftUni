@@ -1,6 +1,5 @@
 <div align="center">
-    ![github-js](https://github.com/user-attachments/assets/0cc0a8c5-567d-453b-8b25-125dc92f3293)
-
+   
     <p>This repository contains tasks and projects related to the TypeScript course by SoftUni, October 2024.</p>
 </div>
 
